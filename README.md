@@ -34,7 +34,7 @@ Top-up Tax Formula:
 Top-up Tax = (15% − ETR) × GloBE Income
 If ETR ≥ 15%, then Top-up Tax = 0.
 
-3. How to Run
+4. How to Run
 
 Step 1: Install dependencies:
 
@@ -80,4 +80,5 @@ OECD Commentary and Administrative Guidance
 8. Author
 Mohammadamir Modami
 MSc International Law – International Tax Focus
+
 Python | R | Tax Technology | OECD Pillar Two
